@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Nanti ganti URL gambar di bawah ini dengan URL banner Anda setelah di-upload -->
-<img src="https://raw.githubusercontent.com/Benaya-Bagas-Christianto/Portofolio/main/public/favicon.svg" width="200" alt="Banner Profile">
+<!-- Banner Profile -->
+<img src="banner.png" width="100%" alt="Banner Profile">
 
 # Halo, Saya Benaya Bagas Christianto
 
