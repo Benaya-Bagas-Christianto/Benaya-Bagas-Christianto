@@ -11,6 +11,11 @@
 
 ---
 
+- I'm currently working on **Web Development & Mobile Apps**
+- I'm currently learning **Laravel Framework & Flutter**
+
+### Skills
+
 ### Languages & Programming
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,3 +44,9 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-00B3FF?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nothingyoucanfoundhere?igsi=MW96bTN0YmdsendudQ==)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benaya-bagas-christianto)
