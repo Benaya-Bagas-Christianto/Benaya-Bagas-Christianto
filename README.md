@@ -3,9 +3,7 @@
 <!-- Banner Profile -->
 <img src="banner.png" width="100%" alt="Banner Profile">
 
-# Halo, Saya Benaya Bagas Christianto
 
-*Fullstack Developer | Mobile App Developer | UI/UX Enthusiast*
 
 </div>
 
