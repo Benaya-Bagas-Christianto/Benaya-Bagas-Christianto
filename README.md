@@ -17,7 +17,7 @@
 ### Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,laravel,docker" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,js,html,css" />
 </a>
 
 <br>
